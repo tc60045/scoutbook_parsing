@@ -9,18 +9,6 @@ er_badges = (
     "Personal Mgmt.", "Sustainability", "Swimming", "Hiking"
 )
 
-er_criticals = (
-    "Camping", "Citizenship in Society", "Cit. in Comm.", "Cit. in Nation",
-    "Cit. in World", "Communication", "Cooking", "Family Life", "First Aid",
-    "Pers. Fitness", "Personal Mgmt."
-)
-
-er_sport = ("Cycling", "Hiking", "Swimming")
-
-er_emerg = ("Emergency Prep.", "Lifesaving")
-
-er_enviro = ("Enviro. Science", "Sustainability")
-
 def parse_csv(filename, eval_date):
     eval_date = datetime.strptime(eval_date, '%m/%d/%y')
     scout_data = {}
