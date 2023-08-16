@@ -1,0 +1,4 @@
+#: python3 mbs_json.py filename.csv 06/01/23
+
+Survival Scouter, 3, 2, {'Camping': ['7/26/23'], 'Emergency Prep.': ['7/28/23'], 'Wilderness Surv.': ['7/28/23']}
+Outdoor Oliver , 3, 0, {'Chess': ['7/27/23'], 'Horsemanship': ['7/27/23'], 'Motorboating': ['7/25/23']}
