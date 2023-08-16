@@ -54,7 +54,7 @@ def main():
         total_badge_count = len(data)
         er_badge_count = sum(1 for badge in er_badges if badge in data)
         print(f'{scout_name}, {total_badge_count}, {er_badge_count}')
-        print()
+    print()
 
 
 if __name__ == "__main__":
