@@ -1,10 +1,12 @@
 # scoutbook_parsing
 Tools for parsing the output of Scoutbook reports for use in analysis and reporting.  
 
+
 All of the tools here are intended to give you faster answers and usable data from Scoutbook reports that you generate for your troop.
 Instructions on how to create a report can be found on these threads:
 - MeritBadge-data-dump: https://www.reddit.com/r/BSA/comments/15t2s5e/more_advancement_chair_tools_mbs_earned_since/
 - Troop-advancement-dump: <coming soon>
+
 
 MeritBadge-data-dump tools:
 - mbs_since.py -- gives you details of which badges were earned by each scout since a date
