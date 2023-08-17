@@ -3,6 +3,12 @@ Tools for parsing the output of Scoutbook reports for use in analysis and report
 
 
 All of the tools here are intended to give you faster answers and usable data from Scoutbook reports that you generate for your troop.
+
+Please review the .output for each utility to see what you can expect AND to see the command convention.  
+
+Also, at the recommendation of Brian D, please note:  dates (when used) are always in mm/dd/yy and not mm/dd/yyyy.  I could / should have been more flexible on these, and will re-visit in the future. 
+
+
 Instructions on how to create a report can be found on these threads:
 - MeritBadge-data-dump: https://www.reddit.com/r/BSA/comments/15t2s5e/more_advancement_chair_tools_mbs_earned_since/
 - Troop-advancement-dump: <coming soon>
