@@ -1,10 +1,13 @@
 Command format:  python3 mising.py filename.csv Badgename
 
 Badge names have to be spot on, so:
-1.  If you enter something that isn't in the list, it will take the first 2 letters of what you enter and give you as short list of badges.  This is super helpful for Citizenship.  I could change the way the BSA lists those badges, but I'd rather not do that work, as that work will have a half-life.
+1.  If you enter something that isn't in the list, it will take the first 2 letters of what you enter and give you as short list of badges.  This is super helpful for Citizenship.  
+  I could change the way the BSA lists those badges, but I'd rather not do that work, as that work will have a half-life.
+  Try entering 'Ci' or 'Cit' and see that it will give you a short list of badges
 2. If you have no idea, just enter 'all' in the Badgename position, and you will get the whole list
 
 Output looks like this:
+# python3 missing.py filename.csv Canoeing
 To get a list of all BSA badges enter 'all'. If you don't match, we will show a smaller list
 Paddle Avoider
 Johnny Aquaphobia
