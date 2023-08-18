@@ -22,6 +22,8 @@ MeritBadge-data-dump tools:
 - mbs_json.py -- scout, [array of all badges] earned after a date
 - eagle_review.py -- tells you in 1 second how many and which ER badges are missing: EM of X
   (we refer to Life scouts as being EM3 or EM1 = how many they are missing)
+- missing.py -- tells you which Scouts are missing an MB (review missing.output for badge name handling)
+- who_has -- does the opposite; tells you who has a particular MB (review who_has.output for badge name handling)
 
 Sample output is shown for each of these tools in the corresponding .output files
 
